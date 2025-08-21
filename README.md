@@ -73,8 +73,8 @@ Each use case simply requires customizing the message content in your API reques
   
   1. Clone the repository:
      ```bash
-     git clone https://github.com/harrism04/voice_messaging.git
-     cd voice_ivr_static
+     git clone https://github.com/8x8/cpaas_voice_messaging.git
+     cd cpaas_voice_messaging
      ```
 
   2. Set up environment variables:
@@ -136,8 +136,8 @@ Each use case simply requires customizing the message content in your API reques
 
   1. Clone the repository:
      ```bash
-     git clone https://github.com/harrism04/voice_ivr_static.git
-     cd voice_ivr_static
+     git clone https://github.com/8x8/cpaas_voice_messaging.git
+     cd cpaas_voice_messaging
      ```
 
   2. Create and activate a virtual environment:
